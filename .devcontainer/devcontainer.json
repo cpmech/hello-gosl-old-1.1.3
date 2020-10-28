@@ -1,6 +1,6 @@
 {
   "name": "Gosl",
-  "image": "gosl/1.1.3",
+  "image": "gosl/gosl:1.1.3",
   "settings": {
     "terminal.integrated.shell.linux": "/bin/bash",
     "go.useGoProxyToCheckForToolUpdates": false,
